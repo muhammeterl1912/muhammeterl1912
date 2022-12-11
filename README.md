@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **muhammederol971@gmail.com**
 
-- ⚡ Fun fact **I like attending IT event and socializing with the developers.**
+- ⚡ Fun fact **I like attending IT events and socializing with the developers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
