@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">I am Muhammet.I am currently full-stack developer.</h3>
+<h1 align="center">Hi there👋, I'm Muhammet Erol </h1>
 
 - 🔭 I’m currently working on **front-end devolepment**
 
