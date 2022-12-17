@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/?username=muhammeterl1912&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact" alt="languages" width="42%">
+ <div>
