@@ -21,10 +21,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://getbootstrap.com/" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://tailwindcss.com/" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://sass-lang.com/" alt="SCSS" width="40" height="40"/>
+  <img src="https://www.postgresql.org/" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://react.dev/" alt="React" width="40" height="40"/>
+  <img src="https://www.javascript.com/" alt="JavaScript" width="40" height="40"/>
+  <img src="https://nodejs.org/en" alt="Node.js" width="40" height="40"/>
 </p>
 
 <div align="center">
