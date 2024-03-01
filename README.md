@@ -21,13 +21,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.png" alt="Bootstrap" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwindcss/tailwindcss.png" alt="Tailwind CSS" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png" alt="Node.js" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwindcss/tailwindcss.png" alt="Tailwind CSS" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40"/>
 </p>
 
 <div align="center">
