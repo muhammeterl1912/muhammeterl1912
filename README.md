@@ -8,9 +8,9 @@
 .
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammet-erol-644576255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-erol-644576255" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammeterol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammeterol" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammeterl1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammeterl1912" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammet-erol-644576255" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-erol-644576255" height="30" width="40" /></a>
+<a href="https://kaggle.com/muhammeterol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammeterol" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammeterl1912" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammeterl1912" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
