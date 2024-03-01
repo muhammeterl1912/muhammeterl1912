@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋, I'm Muhammet Erol </h1>
+<h1 align="center">Hi there👋, I'm Muhammet</h1>
 
-- 🔭 I’m currently working on **front-end devolepment**
+- 🔭 I’m currently working on **Full-Stack Web devolepment**
 
 - 📫 How to reach me **muhammederol971@gmail.com**
 
