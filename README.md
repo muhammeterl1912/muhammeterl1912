@@ -26,7 +26,7 @@
   <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/node/live/logo.png" alt="Node.js" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*_6ooq0R60ba3UT5c-QVemA.png" alt="Tailwind CSS" height="40" width="40"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.0e3166482a69f6e0f869a048cf5c06bb695e2577.svg" alt="Tailwind CSS" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" height="40" width="40"/>
 </p>
 
