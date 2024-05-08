@@ -18,7 +18,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark" alt="My commit status" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact" alt="Languages" width="50%" /></p>
 
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
-<p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
 
