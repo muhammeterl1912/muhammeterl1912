@@ -8,7 +8,8 @@
 
 <p align="center">✈️ Embarking on adventures around the globe, fueled by my love for discovery and learning in every new experience!</p>
 
-<p align="center">📫 How to find me:</p>
+<h3 align="center">📫 How to find me:</h3>
+
 <p align="center">:office: <a href="www.linkedin.com/in/muhammet-erol">LinkedIn</a></p>
 <p align="center">🔗 <a href="https://www.instagram.com/muhammeterl1912/">Instagram</a></p>
 
@@ -19,7 +20,7 @@
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)</div>
 
 <h2 align="center">🚀 Technical Skills</h2>
 
