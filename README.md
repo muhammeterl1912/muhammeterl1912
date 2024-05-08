@@ -64,8 +64,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 
 | Project Demo | Project Link   | Stack      | Project Preview |
 | :---         |     :---       | :---       |      :---:      |
-| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/)  | <h3>[Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App)</h3>|React,Firebase,REST API,
- Context API,Tailwind CSS 
+| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/)  | <h3>[Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App)</h3>|React,Firebase,TailwindCSS 
  | ![Firebase-React-Movie-App](https://imgflip.com/gif/8pe3zt)|
 
 <br>
