@@ -20,7 +20,7 @@
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt=""/></p>
 
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)</div>
+[![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
 
 <h2 align="center">🚀 Technical Skills</h2>
 
