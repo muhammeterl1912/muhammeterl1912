@@ -2,7 +2,11 @@
 
 ## 🖥️ Computer Engineer
 
-I love math, programming, data science, and books. I'm addicted to learning and growing every day. I embark on adventures around the globe, fueled by my love for discovery and learning in every new experience!
+💡 I love math, programming, data science, and books.
+
+ 🎯 I'm addicted to learning and growing every day.
+
+✈️ I embark on adventures around the globe, fueled by my love for discovery and learning in every new experience!
 
 ## 📫 How to find me:
 
