@@ -65,7 +65,7 @@
       <td><a href="https://merol-firebase-react-movie.netlify.app/">Firebase-React-Movie-App</a></td>
       <td><a href="https://github.com/muhammeterl1912/Firebase-React-Movie-App">Repo</a></td>
       <td>React, Firebase, TailwindCSS</td>
-      <td><img src="https://github.com/muhammeterl1912/Firebase-React-Movie-App/assets/118777871/0489a8c5-ea7d-429a-bc3d-3851eb740cf0" alt="Firebase-React-Movie-App" />
+      <td><img src="(https://github.com/muhammeterl1912/React-Store-App/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080)" alt="Firebase-React-Movie-App" />
 </td>
     </tr>
   </tbody>
