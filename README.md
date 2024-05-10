@@ -21,7 +21,6 @@ username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
 
 ![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-
 [![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
 
 ## 🚀 Technical Skills
