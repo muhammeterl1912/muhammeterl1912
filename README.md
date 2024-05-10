@@ -15,8 +15,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
 
-![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?
-username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
+![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark) 
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
+
 
 
 ![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
