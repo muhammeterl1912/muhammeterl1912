@@ -2,12 +2,11 @@
 
 ![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-
 ## 🖥️ Computer Engineer
 
 💡 I love math, programming, data science, and books.
 
- 🎯 I'm addicted to learning and growing every day.
+🎯 I'm addicted to learning and growing every day.
 
 ✈️ I embark on adventures around the globe, fueled by my love for discovery and learning in every new experience!
 
@@ -16,17 +15,13 @@
 - :office: [LinkedIn](www.linkedin.com/in/muhammet-erol)
 - 🔗 [Instagram](https://www.instagram.com/muhammeterl1912/)
 
-
-![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark) 
+![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=c,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
-
 
 ## 🚀 Technical Skills
 
@@ -56,3 +51,4 @@
 | Project Demo | Project Link | Stack | Project Preview |
 |--------------|--------------|-------|-----------------|
 | [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase, TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/React-Store-App/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080) |
+
