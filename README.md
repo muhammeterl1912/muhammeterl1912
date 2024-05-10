@@ -12,7 +12,7 @@
 
 ## 📫 How to find me:
 
-- :office: [LinkedIn](www.linkedin.com/in/muhammet-erol)
+- :office: [LinkedIn](https://www.linkedin.com/in/muhammet-erol/)
 - 🔗 [Instagram](https://www.instagram.com/muhammeterl1912/)
 
 ![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark)
