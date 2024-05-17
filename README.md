@@ -4,11 +4,11 @@
 
 ## 🖥️ Computer Engineer
 
-💡 I have a profound passion for mathematics, programming, data science, and literature.
+💡 I thrive on the elegant logic of mathematics, the creative canvas of programming, the insightful exploration of data science, and the immersive world of literature.
 
-🎯 My addiction? It's to learning and evolving every single day.
+🎯 My passion is fueled by an addiction to learning and evolving every day, seeking new knowledge and experiences to broaden my horizons.
 
-✈️ Fueled by my insatiable thirst for discovery, I embark on adventures around the globe, finding new avenues for learning in every experience!
+✈️ Driven by curiosity, I embark on global adventures, finding inspiration and learning opportunities in every new destination and cultural encounter.
 
 ## 📫 How to Reach Me:
 
@@ -50,8 +50,6 @@
 
 | Project Demo | Project Link | Stack | Project Preview |
 |--------------|--------------|-------|-----------------|
-| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase,Context-Api-Rest-API TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/Firebase-React-Movie-App/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080)|
-| [React-StockCheck-App](https://react-stock-dbsdu712q-muhammets-projects-aea412db.vercel.app/) | [Repo](https://github.com/muhammeterl1912/React-StockCheck-App) | React,Redux Toolkit,Material-UI,Formik-Yup,Rest-Api,Tremor-Charts | ![React-StockCheck-App]! [chrome-capture-2024-5-17](https://github.com/muhammeterl1912/Firebase-React-Movie-App/assets/118777871/ca669c40-7abb-4926-a53f-775308af99a3)
-)|
-
+| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase, Context-Api-Rest-API, TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/Firebase-React-Movie-App/raw/main/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080.gif)|
+| [React-StockCheck-App](https://react-stock-dbsdu712q-muhammets-projects-aea412db.vercel.app/) | [Repo](https://github.com/muhammeterl1912/React-StockCheck-App) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api, Tremor-Charts | ![React-StockCheck-App](https://github.com/muhammeterl1912/React-StockCheck-App/raw/main/assets/118777871/ca669c40-7abb-4926-a53f-775308af99a3.gif) |
 
