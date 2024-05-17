@@ -51,6 +51,7 @@
 | Project Demo | Project Link | Stack | Project Preview |
 |--------------|--------------|-------|-----------------|
 | [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase, Context-Api-Rest-API, TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/Firebase-React-Movie-App/raw/main/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080.gif) |
-| [React-StockCheck-App](https://react-stock-dbsdu712q-muhammets-projects-aea412db.vercel.app/) | [Repo](https://github.com/muhammeterl1912/React-StockCheck-App) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api, Tremor-Charts | ![React-StockCheck-App](https://github.com/muhammeterl1912/React-StockCheck-App/raw/main/assets/118777871/ca669c40-7abb-4926-a53f-775308af99a3.gif) |
+![React-StockCheck-App](https://github.com/muhammeterl1912/React-StockCheck-App/raw/main/assets/118777871/ca669c40-7abb-4926-a53f-775308af99a3.gif)
+
 
 
