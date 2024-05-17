@@ -1,21 +1,21 @@
-# Hi there! 👋 I'm Muhammet
+# Hello there! 👋 I'm Muhammet
 
 ![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 ## 🖥️ Computer Engineer
 
-💡 I love math, programming, data science, and books.
+💡 I have a profound passion for mathematics, programming, data science, and literature.
 
-🎯 I'm addicted to learning and growing every day.
+🎯 My addiction? It's to learning and evolving every single day.
 
-✈️ I embark on adventures around the globe, fueled by my love for discovery and learning in every new experience!
+✈️ Fueled by my insatiable thirst for discovery, I embark on adventures around the globe, finding new avenues for learning in every experience!
 
-## 📫 How to find me:
+## 📫 How to Reach Me:
 
 - :office: [LinkedIn](https://www.linkedin.com/in/muhammet-erol/)
 - 🔗 [Instagram](https://www.instagram.com/muhammeterl1912/)
 
-![My commit status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark)
+![My Commit Status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
 
@@ -50,6 +50,6 @@
 
 | Project Demo | Project Link | Stack | Project Preview |
 |--------------|--------------|-------|-----------------|
-| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase, TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/React-Store-App/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080) |
-| [React-StockCheck-App](https://react-stock-dbsdu712q-muhammets-projects-aea412db.vercel.app/) | [Repo](https://github.com/muhammeterl1912/React-StockCheck-App) | React,Redux Toolkit,Material-UI,Formik-Yup,Rest-Api,Tremor-Charts | ![Firebase-React-Movie-App](![222222](https://github.com/muhammeterl1912/React-StockCheck-App/assets/118777871/a18c4dc1-caf7-49f3-a92a-4f2245bf3670) |
+| [Firebase-React-Movie-App](https://merol-firebase-react-movie.netlify.app/) | [Repo](https://github.com/muhammeterl1912/Firebase-React-Movie-App) | React, Firebase, TailwindCSS | ![Firebase-React-Movie-App](https://github.com/muhammeterl1912/Firebase-React-Movie-App/assets/118777871/5bf90e68-576e-439f-a488-b8ba5e9f5080) |
+| [React-StockCheck-App](https://react-stock-dbsdu712q-muhammets-projects-aea412db.vercel.app/) | [Repo](https://github.com/muhammeterl1912/React-StockCheck-App) | React,Redux Toolkit,Material-UI,Formik-Yup,Rest-Api,Tremor-Charts | ![React-StockCheck-App](https://github.com/muhammeterl1912/React-StockCheck-App/assets/118777871/a18c4dc1-caf7-49f3-a92a-4f2245bf3670) |
 
