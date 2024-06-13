@@ -27,7 +27,6 @@
 | [React-Milestone-Blog-App](https://react-blog-app-plum-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/MileStone-React-Blog-app) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api | ![chrome-capture-2024-5-26](https://github.com/muhammeterl1912/MileStone-React-Blog-app/assets/118777871/48884834-91ab-439f-9c44-be807878596b) |
 | [Netflix-App](https://netflix-app-theta-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/netflix-app) | React, Next.js, Redux Toolkit, CSR/SSR, TailwindCSS, Firebase, Rest-Api | ![chrome-capture-2024-6-6](https://github.com/muhammeterl1912/netflix-app/assets/118777871/5b9b15e7-9760-4bdc-bd41-a09a8ae209b9) |
 
-
 ## 🚀 Technical Skills
 
 <div align="center">
@@ -50,7 +49,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA" />
 </div>
-
 
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
