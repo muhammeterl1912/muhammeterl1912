@@ -1,6 +1,7 @@
 # Hello there! 👋 I'm Muhammet
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<!-- Intro Section with Flexbox -->
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div>
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px;">
   </div>
@@ -11,7 +12,6 @@
     <p>✈️ Driven by curiosity, I embark on global adventures, finding inspiration and learning opportunities in every new destination and cultural encounter.</p>
   </div>
 </div>
-
 
 ## 📫 How to Reach Me:
 
@@ -27,7 +27,8 @@
 | [React-Milestone-Blog-App](https://react-blog-app-plum-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/MileStone-React-Blog-app) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api | ![chrome-capture-2024-5-26](https://github.com/muhammeterl1912/MileStone-React-Blog-app/assets/118777871/48884834-91ab-439f-9c44-be807878596b) |
 | [Netflix-App](https://netflix-app-theta-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/netflix-app) | React, Next.js, Redux Toolkit, CSR/SSR, TailwindCSS, Firebase, Rest-Api | ![chrome-capture-2024-6-6](https://github.com/muhammeterl1912/netflix-app/assets/118777871/5b9b15e7-9760-4bdc-bd41-a09a8ae209b9) |
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<!-- GitHub Stats Section with Flexbox -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark" alt="My Commit Status">
   </div>
@@ -36,7 +37,7 @@
   </div>
 </div>
 
-
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
 
 ## 🚀 Technical Skills
