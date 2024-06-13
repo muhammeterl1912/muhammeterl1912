@@ -1,8 +1,8 @@
 # Hello there! 👋 I'm Muhammet
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px; margin-right: 20px;">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px;">
   </div>
   <div>
     <h2>🖥️ Computer Engineer</h2>
@@ -11,6 +11,7 @@
     <p>✈️ Driven by curiosity, I embark on global adventures, finding inspiration and learning opportunities in every new destination and cultural encounter.</p>
   </div>
 </div>
+
 
 ## 📫 How to Reach Me:
 
