@@ -15,8 +15,8 @@
 
 ## 📫 How to Reach Me:
 
-- :office: [LinkedIn](https://www.linkedin.com/in/muhammet-erol/)
-- 🔗 [Instagram](https://www.instagram.com/muhammeterl1912/)
+ :office: [LinkedIn](https://www.linkedin.com/in/muhammet-erol/)
+ 🔗 [Instagram](https://www.instagram.com/muhammeterl1912/)
 
 ## My Top Projects
 
