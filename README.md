@@ -27,9 +27,15 @@
 | [React-Milestone-Blog-App](https://react-blog-app-plum-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/MileStone-React-Blog-app) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api | ![chrome-capture-2024-5-26](https://github.com/muhammeterl1912/MileStone-React-Blog-app/assets/118777871/48884834-91ab-439f-9c44-be807878596b) |
 | [Netflix-App](https://netflix-app-theta-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/netflix-app) | React, Next.js, Redux Toolkit, CSR/SSR, TailwindCSS, Firebase, Rest-Api | ![chrome-capture-2024-6-6](https://github.com/muhammeterl1912/netflix-app/assets/118777871/5b9b15e7-9760-4bdc-bd41-a09a8ae209b9) |
 
-![My Commit Status](https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark)
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark" alt="My Commit Status">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact" alt="Languages">
+  </div>
+</div>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
 
