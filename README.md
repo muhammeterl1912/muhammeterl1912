@@ -3,7 +3,7 @@
 <!-- Intro Section with Flexbox -->
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div>
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px;">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 80px;">
   </div>
   <div>
     <h2>🖥️ Computer Engineer</h2>
