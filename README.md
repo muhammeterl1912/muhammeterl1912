@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Muhammet
 
 <!-- Intro Section with Flexbox -->
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 200px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div>
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px;">
   </div>
@@ -27,18 +27,6 @@
 | [React-Milestone-Blog-App](https://react-blog-app-plum-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/MileStone-React-Blog-app) | React, Redux Toolkit, Material-UI, Formik-Yup, Rest-Api | ![chrome-capture-2024-5-26](https://github.com/muhammeterl1912/MileStone-React-Blog-app/assets/118777871/48884834-91ab-439f-9c44-be807878596b) |
 | [Netflix-App](https://netflix-app-theta-ten.vercel.app/) | [Repo](https://github.com/muhammeterl1912/netflix-app) | React, Next.js, Redux Toolkit, CSR/SSR, TailwindCSS, Firebase, Rest-Api | ![chrome-capture-2024-6-6](https://github.com/muhammeterl1912/netflix-app/assets/118777871/5b9b15e7-9760-4bdc-bd41-a09a8ae209b9) |
 
-<!-- GitHub Stats Section with Flexbox -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark" alt="My Commit Status">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact" alt="Languages">
-  </div>
-</div>
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
 
 ## 🚀 Technical Skills
 
@@ -61,4 +49,18 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA" />
+</div>
+
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=muhammeterl1912)
+
+<!-- GitHub Stats Section with Flexbox -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeterl1912&theme=chartreuse-dark" alt="My Commit Status">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeterl1912&theme=chartreuse-dark&layout=compact" alt="Languages">
+  </div>
 </div>
