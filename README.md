@@ -1,14 +1,16 @@
 # Hello there! 👋 I'm Muhammet
 
-![GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
-## 🖥️ Computer Engineer
-
-💡 I thrive on the elegant logic of mathematics, the creative canvas of programming, the insightful exploration of data science, and the immersive world of literature.
-
-🎯 My passion is fueled by an addiction to learning and evolving every day, seeking new knowledge and experiences to broaden my horizons.
-
-✈️ Driven by curiosity, I embark on global adventures, finding inspiration and learning opportunities in every new destination and cultural encounter.
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" style="max-width: 100px; margin-right: 20px;">
+  </div>
+  <div>
+    <h2>🖥️ Computer Engineer</h2>
+    <p>💡 I thrive on the elegant logic of mathematics, the creative canvas of programming, the insightful exploration of data science, and the immersive world of literature.</p>
+    <p>🎯 My passion is fueled by an addiction to learning and evolving every day, seeking new knowledge and experiences to broaden my horizons.</p>
+    <p>✈️ Driven by curiosity, I embark on global adventures, finding inspiration and learning opportunities in every new destination and cultural encounter.</p>
+  </div>
+</div>
 
 ## 📫 How to Reach Me:
 
